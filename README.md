@@ -1,2 +1,2 @@
-# pirple1
-This is my first repo created when start nodejs master class
+# Pirple Homework Assignment #1
+This is my first Assignment of Nodejs Master Class.
